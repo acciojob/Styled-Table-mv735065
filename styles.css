@@ -1,1 +1,13 @@
 /* your code */
+
+table{
+	border:1px solid lightblue;
+	border-radius:10px;
+	background-color:lightgoldenrodyellow;
+}
+th,td{
+	border:1px solid lightblue;
+	padding:10px
+}
+
+
